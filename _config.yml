@@ -1,4 +1,5 @@
 title: Hello Everyone
+theme: minima
 author: Emma
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
